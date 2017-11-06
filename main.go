@@ -4,7 +4,7 @@ import (
 
     //"fmt"
     "net/http"
-    "golazo/routes"
+    "routes"
 
 )
 
