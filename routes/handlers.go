@@ -4,8 +4,8 @@ import (
 
 	"net/http"
 	"encoding/json"
-	"golazo/structs"
-	"golazo/api"
+	"structs"
+	"api"
 	"io/ioutil"
 	"strings"
 	"crypto/md5"
