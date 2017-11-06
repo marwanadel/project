@@ -4,7 +4,7 @@ import (
 
 	"net/http"
 	"encoding/json"
-	"golazo/structs"
+	"structs"
 	"io/ioutil"
 	"strconv"
 	"time"
